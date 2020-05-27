@@ -1,2 +1,2 @@
-# module-3-solution
+# http://module-3-solution.github.io
 module 3 solution repository
